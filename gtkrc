@@ -39,6 +39,9 @@ style "gimp-default-style"
 # Uncommenting this line allows to set a different font for GIMP.
 #
 # font_name = "sans 10"
+#----------------------------------------------------------------------------
+# GimpDock::font-scale = 1.050 is the line that controls the UI font size!!!
+#----------------------------------------------------------------------------
 
   GtkPaned::handle-size             = 6
   GimpDockWindow::default-height    = 300
